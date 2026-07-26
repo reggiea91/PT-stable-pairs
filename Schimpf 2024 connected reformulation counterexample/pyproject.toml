@@ -1,0 +1,12 @@
+[project]
+name = "schimpf-connected-pole-verification"
+version = "1.0.0"
+description = "Exact finite-box verification for a connected stable pairs pole counterexample"
+requires-python = ">=3.10"
+authors = [
+  {name = "Reginald Anderson"}
+]
+dependencies = []
+
+[tool.ruff]
+line-length = 79

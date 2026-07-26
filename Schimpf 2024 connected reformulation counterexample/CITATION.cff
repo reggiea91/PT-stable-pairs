@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this computation, please cite the accompanying paper."
+title: "Schimpf connected stable pairs pole counterexample: reproducibility package"
+type: software
+authors:
+  - family-names: Anderson
+    given-names: Reginald
+version: 1.0.0
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Anderson
+      given-names: Reginald
+  title: "A toric Calabi--Yau counterexample to Schimpf's connected stable pairs pole conjecture"

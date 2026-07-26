@@ -1,0 +1,25 @@
+{
+  "name": "schimpf-connected-pole-counterexample",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Exact finite two-leg stable pairs vertex enumeration and connected-pole certificate",
+  "type": "module",
+  "scripts": {
+    "reproduce": "node scripts/reproduce.js",
+    "test": "node --test",
+    "check": "npm test && npm run reproduce"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "keywords": [
+    "algebraic-geometry",
+    "stable pairs",
+    "pandharipande-thomas",
+    "toric-geometry",
+    "exact-arithmetic",
+    "reproducibility"
+  ],
+  "author": "Reginald Anderson",
+  "license": "UNLICENSED"
+}
